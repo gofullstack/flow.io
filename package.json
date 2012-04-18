@@ -1,0 +1,9 @@
+{
+    "name": "flow.io",
+    "description": "Flowdock to Socket.IO proxy",
+    "version": "0.0.1",
+    "dependencies": {
+        "socket.io": "> 0",
+        "flowdock": "> 0"
+    }
+}
